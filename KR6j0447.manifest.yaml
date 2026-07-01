@@ -1,0 +1,59 @@
+canonical_identifier: bkk:krp/KR6j0447/v1
+canonical_location: https://kanripo.org/bkk/KR6j0447/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 金剛藥叉瞋怒王息災大威神驗念誦儀軌
+  identifiers:
+    alt_id:
+    - T21n1220
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1220.xml
+    old_id: T21n1220
+  edition:
+    short: bkk
+editions:
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 乙
+  label: 乙
+  source_xml_id: wit2
+- short: 原
+  label: 原
+  source_xml_id: wit3
+- short: 宋
+  label: 宋
+  source_xml_id: wit4
+- short: 元
+  label: 元
+  source_xml_id: wit5
+- short: 明
+  label: 明
+  source_xml_id: wit6
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0447_000.yaml, hash: 'sha256:90cda5a32d612d45f2fb8531bd76f5a21e26f3c1849c1de10c4d88d85e28dac8'}
+  - {seq: 1, filename: KR6j0447_001.yaml, hash: 'sha256:a9a131632ba77c7103c45f1da3e533c35d74719af2898d272e636a8c7d8f8a69'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0447_001.markers.yaml, hash: 'sha256:8e4dae2c6ffab1f15013cef55771b1490cf8e7059a9429d60746552cb885780d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0447_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1982
+  label: '金剛藥叉瞋怒王息災大威神驗
+
+    念誦儀軌'
+  type: juan
+  level: 1
+hash: sha256:f073ab2e8f2dbe727fc8ec8cb53a7531cddc357b80340efac98d58e7e4c45b1d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

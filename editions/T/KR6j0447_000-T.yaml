@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0447/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛藥叉瞋怒王息災大威神驗念誦儀軌
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1220.xml
+    old_id: T21n1220
+hash: sha256:90cda5a32d612d45f2fb8531bd76f5a21e26f3c1849c1de10c4d88d85e28dac8

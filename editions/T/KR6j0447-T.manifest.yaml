@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR6j0447/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0447/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛藥叉瞋怒王息災大威神驗念誦儀軌
+  identifiers:
+    krp: KR6j0447
+    cbeta: T21n1220
+    cbeta_old_id: T21n1220
+    authorityid: CA0001765
+    json_key: T1220
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1220.xml
+    old_id: T21n1220
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0447_000-T.yaml, hash: 'sha256:90cda5a32d612d45f2fb8531bd76f5a21e26f3c1849c1de10c4d88d85e28dac8'}
+  - {seq: 1, filename: KR6j0447_001-T.yaml, hash: 'sha256:fcb0c541074bc82129c4fae47dc6aa5b1d862b3b20347774f84298df9c63f871'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0447_000-T.markers.yaml, hash: 'sha256:e6739870e9d1bf06033033cc8a9ea9e95fdf7bed60042b5bbe128232366aa08f'}
+  - {seq: 1, role: markers, filename: assets/KR6j0447_001-T.markers.yaml, hash: 'sha256:5158933c0f93ee121487e7ea3ee0d1516f7e6ddbc23aef9b931861af424649b1'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0447_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1982
+  label: '金剛藥叉瞋怒王息災大威神驗
+
+    念誦儀軌'
+  type: juan
+  level: 1
+hash: sha256:ebca97e5085e403983479a2b830791185f7963f2e041a65d75527ea737e7cb97
